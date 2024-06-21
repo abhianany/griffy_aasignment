@@ -5,7 +5,7 @@ A Flutter application showcasing real-time updating charts for opinion prices.
 
 
 ## Summary
-This Flutter application demonstrates a real-time updating line chart that displays opinion prices over time. The chart dynamically updates every few seconds to reflect the latest price changes. State management is handled using Riverpod for efficient data flow and updates.
+This Flutter application demonstrates a real-time updating line chart that displays opinion prices over time. The chart dynamically updates every few seconds to reflect the latest price changes. State management is handled using Riverpod for efficient data flow and updates. In this a method is created which generates random prices between 500 - 1000 and plot the chart.
 
 
 ## Getting Started
