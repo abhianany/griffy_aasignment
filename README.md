@@ -1,16 +1,49 @@
-# griffy_assignment
 
-A new Flutter project.
+# Charts for opinion prices
+
+A Flutter application showcasing real-time updating charts for opinion prices.
+
+
+## Summary
+This Flutter application demonstrates a real-time updating line chart that displays opinion prices over time. The chart dynamically updates every few seconds to reflect the latest price changes. State management is handled using Riverpod for efficient data flow and updates.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Prerequisites
+- Ensure you have Flutter installed. For installation instructions, refer to the [document](https://docs.flutter.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+## Clone the Repository
+- Clone the repository to your local machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  git clone https://github.com/abhianany/griffy_aasignment.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Navigate into the project directory:
+
+  cd your_repository
+
+## Install Dependencies
+- Fetch dependencies by running:
+  flutter pub get
+
+## Run the Application
+- Connect your device or start an emulator.
+
+- Launch the app using Flutter: flutter run
+
+
+## Features
+
+- Real-time Data Updates: The chart updates every few seconds with new opinion prices.
+- Interactive Chart: Zoom and pan functionality is implemented for better chart exploration.
+- UI/UX: Clean interface with smooth animations for seamless user experience.
+
+
+## State Management
+- flutter_riverpod: State management library used to manage and update the chart's state efficiently.
+## Additional Notes
+- Ensure your device or emulator has internet connectivity to fetch initial data and simulate real-time updates.
+- For testing purposes, the app generates random prices every few seconds. For production or real-world scenarios, replace this with actual data sources or APIs.
+## Feedback
+
+Feel free to open issues or contribute to this project by submitting pull requests. Your feedback and contributions are highly appreciated!
