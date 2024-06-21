@@ -47,3 +47,9 @@ This Flutter application demonstrates a real-time updating line chart that displ
 ## Feedback
 
 Feel free to open issues or contribute to this project by submitting pull requests. Your feedback and contributions are highly appreciated!
+
+## Demo
+
+
+https://github.com/abhianany/griffy_aasignment/assets/87642299/f6bd2899-da34-41ba-94e7-6e09127e6999
+
